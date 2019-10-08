@@ -1,0 +1,1 @@
+silent_h = ['honestly','honor', 'honorary', 'honored', 'honorable', 'honorific', 'honoring', 'honors', 'honorifics', 'herb', 'herbalist', 'herbicide', 'herbivore', 'herbs', 'herbalists', 'herbicides', 'herbivores', 'honest', 'honesty', 'hour', 'hours', 'hourly', 'heir', 'heiress', 'heirloom', 'heirs', 'heiresses', 'heirlooms', 'homage', 'hors']
